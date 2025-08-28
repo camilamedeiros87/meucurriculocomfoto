@@ -3,9 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Camila Medeiros</title>
-<br>
-    <title>Camila Medeiros</title>
 </head>
 <body>
     <img src="img/eu.jpg" alt="">
